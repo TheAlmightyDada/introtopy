@@ -38,3 +38,10 @@ print(name.strip()+DOB)
 
 # You can also stip just from the left with .lstrip or just from the right with .rstrip
 
+## Numbers
+
+print(3+2)#addition
+print(3-2)#subtraction
+print(3*2)#multiplication
+print(3/2)#division
+print(3**2)#to the power
