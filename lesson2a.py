@@ -45,3 +45,7 @@ print(3-2)#subtraction
 print(3*2)#multiplication
 print(3/2)#division
 print(3**2)#to the power
+
+# Floating-Point Numbers
+
+print(0.1+0.2)
